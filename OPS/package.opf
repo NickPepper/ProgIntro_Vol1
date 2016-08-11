@@ -65,6 +65,7 @@
     <item id="xchapter_015" href="chapter_015.xhtml" media-type="application/xhtml+xml" />
     <item id="xchapter_016" href="chapter_016.xhtml" media-type="application/xhtml+xml" />
     <item id="xchapter_017" href="chapter_017.xhtml" media-type="application/xhtml+xml" />
+    <item id="xchapter_018" href="chapter_018.xhtml" media-type="application/xhtml+xml" />
 
     
     <item id="brief-toc" href="toc-short.xhtml" media-type="application/xhtml+xml"/>
@@ -100,6 +101,7 @@
     <itemref linear="yes" idref="xchapter_015" />
     <itemref linear="yes" idref="xchapter_016" />
     <itemref linear="yes" idref="xchapter_017" />
+    <itemref linear="yes" idref="xchapter_018" />
 
 
     <itemref idref="copyright" linear="yes"/>
