@@ -47,6 +47,19 @@ p.tabledescr {
 	text-align: center!important;
 }
 
+p.centered {
+	margin: 2em;
+	font-style: normal;
+	text-indent: 0;
+	text-align: center!important;
+}
+
+p.centered-italic {
+	margin: 2em;
+	font-style: italic;
+	text-indent: 0;
+}
+
 header + p:first-line {
 	text-transform: lowercase !important;
 	font-variant: small-caps;
@@ -54,7 +67,7 @@ header + p:first-line {
 }
 
 p + p {
-	text-indent: 1.33em;
+	text-indent: 1.5em;
 }
 
 table {
